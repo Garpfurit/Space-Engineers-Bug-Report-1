@@ -1,0 +1,687 @@
+2015-11-08 13:52:28.022 - Thread:   1 ->  Log Started
+2015-11-08 13:52:28.024 - Thread:   1 ->  Timezone (local - UTC): -5h
+2015-11-08 13:52:28.024 - Thread:   1 ->  App Version: 01_107_008
+2015-11-08 13:52:28.024 - Thread:   1 ->  Steam build: Always true
+2015-11-08 13:52:28.024 - Thread:   1 ->  Is official: True [NO][IS][NAMP]
+2015-11-08 13:52:28.024 - Thread:   1 ->  Environment.ProcessorCount: 8
+2015-11-08 13:52:28.024 - Thread:   1 ->  Environment.OSVersion: Microsoft Windows NT 10.0.10240.0
+2015-11-08 13:52:28.024 - Thread:   1 ->  Environment.CommandLine: "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\SpaceEngineers.exe"
+2015-11-08 13:52:28.024 - Thread:   1 ->  Environment.Is64BitProcess: True
+2015-11-08 13:52:28.025 - Thread:   1 ->  Environment.Is64BitOperatingSystem: True
+2015-11-08 13:52:28.025 - Thread:   1 ->  Environment.Version: 4.0.30319.42000
+2015-11-08 13:52:28.025 - Thread:   1 ->  Environment.CurrentDirectory: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64
+2015-11-08 13:52:28.025 - Thread:   1 ->  MainAssembly.ProcessorArchitecture: Amd64
+2015-11-08 13:52:28.025 - Thread:   1 ->  ExecutingAssembly.ProcessorArchitecture: Amd64
+2015-11-08 13:52:28.025 - Thread:   1 ->  IntPtr.Size: 8
+2015-11-08 13:52:28.025 - Thread:   1 ->  Default Culture: en-US
+2015-11-08 13:52:28.025 - Thread:   1 ->  Default UI Culture: en-US
+2015-11-08 13:52:28.025 - Thread:   1 ->  IsAdmin: False
+2015-11-08 13:52:28.031 - Thread:   1 ->  MyConfig.Load() - START
+2015-11-08 13:52:28.034 - Thread:   1 ->     Path: C:\Users\Gus\AppData\Roaming\SpaceEngineers\SpaceEngineers.cfg
+2015-11-08 13:52:28.058 - Thread:   1 ->     GraphicsRenderer: DirectX 11
+2015-11-08 13:52:28.058 - Thread:   1 ->     MusicVolume: 1
+2015-11-08 13:52:28.058 - Thread:   1 ->     GameVolume: 0.6619467
+2015-11-08 13:52:28.058 - Thread:   1 ->     DebugInputs: VRage.Serialization.SerializableDictionary`2[System.String,System.Object]
+2015-11-08 13:52:28.058 - Thread:   1 ->     Language: 0
+2015-11-08 13:52:28.058 - Thread:   1 ->     ControlsGeneral: VRage.Serialization.SerializableDictionary`2[System.String,System.Object]
+2015-11-08 13:52:28.058 - Thread:   1 ->     ControlsButtons: VRage.Serialization.SerializableDictionary`2[System.String,System.Object]
+2015-11-08 13:52:28.058 - Thread:   1 ->     NeedShowTutorialQuestion: False
+2015-11-08 13:52:28.058 - Thread:   1 ->     CubeBuilderBuildingMode: 1
+2015-11-08 13:52:28.058 - Thread:   1 ->     ControlsHints: False
+2015-11-08 13:52:28.058 - Thread:   1 ->     RotationHints: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     ShowCrosshair: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     DisableHeadbob: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     CompressSaveGames: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     ShowPlayerNamesOnHud: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     ScreenshotSizeMultiplier: 1
+2015-11-08 13:52:28.058 - Thread:   1 ->     MinimalHud: False
+2015-11-08 13:52:28.058 - Thread:   1 ->     CubeBuilderUseSymmetry: False
+2015-11-08 13:52:28.058 - Thread:   1 ->     VideoAdapter: 0
+2015-11-08 13:52:28.058 - Thread:   1 ->     ScreenWidth: 1920
+2015-11-08 13:52:28.058 - Thread:   1 ->     ScreenHeight: 1080
+2015-11-08 13:52:28.058 - Thread:   1 ->     RefreshRate: 60
+2015-11-08 13:52:28.058 - Thread:   1 ->     WindowMode: 2
+2015-11-08 13:52:28.058 - Thread:   1 ->     VerticalSync: False
+2015-11-08 13:52:28.058 - Thread:   1 ->     HardwareCursor: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     RenderQuality: 0
+2015-11-08 13:52:28.058 - Thread:   1 ->     FieldOfView: 90
+2015-11-08 13:52:28.058 - Thread:   1 ->     RenderInterpolation: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     HudWarnings: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     TextureQuality: 2
+2015-11-08 13:52:28.058 - Thread:   1 ->     FoliageDetails: 0
+2015-11-08 13:52:28.058 - Thread:   1 ->     AnisotropicFiltering: 4
+2015-11-08 13:52:28.058 - Thread:   1 ->     VoiceChat: True
+2015-11-08 13:52:28.058 - Thread:   1 ->     AntialiasingMode: 4
+2015-11-08 13:52:28.058 - Thread:   1 ->     UiTransparency: 0.8786131
+2015-11-08 13:52:28.058 - Thread:   1 ->     UiBkTransparency: 0.1516926
+2015-11-08 13:52:28.058 - Thread:   1 ->     FirstTimeRun: False
+2015-11-08 13:52:28.058 - Thread:   1 ->     GrassDensity: 0
+2015-11-08 13:52:28.058 - Thread:   1 ->     TutorialsFinished: System.Collections.Generic.List`1[System.String]
+2015-11-08 13:52:28.058 - Thread:   1 ->     MutedPlayers: 
+2015-11-08 13:52:28.060 - Thread:   1 ->  MyConfig.Load() - END
+2015-11-08 13:52:28.061 - Thread:   1 ->  Checksum file is missing, game will run as usual but file integrity won't be verified
+2015-11-08 13:52:28.536 - Thread:   1 ->  Steam.IsActive: True
+2015-11-08 13:52:28.536 - Thread:   1 ->  Steam.IsOnline: True
+2015-11-08 13:52:28.536 - Thread:   1 ->  Steam.OwnsGame: True
+2015-11-08 13:52:28.537 - Thread:   1 ->  Steam.UserId: 76561198055425540
+2015-11-08 13:52:28.537 - Thread:   1 ->  Steam.UserName: Garpfruit
+2015-11-08 13:52:28.537 - Thread:   1 ->  Steam.Branch: 
+2015-11-08 13:52:28.537 - Thread:   1 ->  Build date: 2015-11-06 05:19
+2015-11-08 13:52:28.537 - Thread:   1 ->  Build version: 0.1.5788.31193
+2015-11-08 13:52:28.557 - Thread:   1 ->  MySandboxGame.Constructor() - START
+2015-11-08 13:52:28.557 - Thread:   1 ->     Game dir: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64
+2015-11-08 13:52:28.557 - Thread:   1 ->     Content dir: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content
+2015-11-08 13:52:28.557 - Thread:   1 ->     Found processor count: 8
+2015-11-08 13:52:28.557 - Thread:   1 ->     Using processor count: 8
+2015-11-08 13:52:28.778 - Thread:   1 ->     MyDefinitionManager.LoadScenarios() - START
+2015-11-08 13:52:28.781 - Thread:   1 ->        6808709e0b8fc97bafdb17bdd82ee41a7433e68f
+2015-11-08 13:52:29.200 - Thread:   1 ->        Loading scenarios
+2015-11-08 13:52:29.240 - Thread:   1 ->     MyDefinitionManager.LoadScenarios() - END
+2015-11-08 13:52:29.242 - Thread:   1 ->     3e31d3668c73691e4693e4b856ab5c69cf293d67
+2015-11-08 13:52:29.447 - Thread:   1 ->     Preallocate - START
+2015-11-08 13:52:29.448 - Thread:   1 ->        SyncClass - START
+2015-11-08 13:52:29.449 - Thread:   1 ->        SyncClass - END
+2015-11-08 13:52:29.449 - Thread:   1 ->        MySpaceBuildComponent - START
+2015-11-08 13:52:29.449 - Thread:   1 ->        MySpaceBuildComponent - END
+2015-11-08 13:52:29.449 - Thread:   1 ->        MySpaceWorldGenerator - START
+2015-11-08 13:52:29.456 - Thread:   1 ->        MySpaceWorldGenerator - END
+2015-11-08 13:52:29.456 - Thread:   1 ->        MySpaceRespawnComponent - START
+2015-11-08 13:52:29.457 - Thread:   1 ->        MySpaceRespawnComponent - END
+2015-11-08 13:52:29.458 - Thread:   1 ->        MyEntities - START
+2015-11-08 13:52:29.476 - Thread:   1 ->        MyEntities - END
+2015-11-08 13:52:29.476 - Thread:   1 ->        MyObjectBuilder_Base - START
+2015-11-08 13:52:29.476 - Thread:   1 ->        MyObjectBuilder_Base - END
+2015-11-08 13:52:29.476 - Thread:   1 ->        MyTransparentGeometry - START
+2015-11-08 13:52:29.511 - Thread:   1 ->        MyTransparentGeometry - END
+2015-11-08 13:52:29.511 - Thread:   1 ->        MyCubeGridDeformationTables - START
+2015-11-08 13:52:29.519 - Thread:   1 ->        MyCubeGridDeformationTables - END
+2015-11-08 13:52:29.519 - Thread:   1 ->        MyMath - START
+2015-11-08 13:52:29.519 - Thread:   1 ->        MyMath - END
+2015-11-08 13:52:29.525 - Thread:   1 ->        MyDefinitionManager - START
+2015-11-08 13:52:29.525 - Thread:   1 ->        MyDefinitionManager - END
+2015-11-08 13:52:29.525 - Thread:   1 ->        MyCubeGridDefinitions - START
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyCubeGridDefinitions - END
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyAIActionsParser - START
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyAIActionsParser - END
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyMultiplayerBase - START
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyMultiplayerBase - END
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyMultiplayerServerBase - START
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyMultiplayerServerBase - END
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyDedicatedServerBase - START
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyDedicatedServerBase - END
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyDedicatedServerBattle - START
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyDedicatedServerBattle - END
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyMultiplayerLobbyClient - START
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyMultiplayerLobbyClient - END
+2015-11-08 13:52:29.561 - Thread:   1 ->        MyServerDebugCommands - START
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyServerDebugCommands - END
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyMultiplayerClient - START
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyMultiplayerClient - END
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyMultiplayerLobby - START
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyMultiplayerLobby - END
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyDedicatedServer - START
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyDedicatedServer - END
+2015-11-08 13:52:29.566 - Thread:   1 ->        MyAiTargetManager - START
+2015-11-08 13:52:29.570 - Thread:   1 ->        MyAiTargetManager - END
+2015-11-08 13:52:29.570 - Thread:   1 ->        MyEntityStatComponent - START
+2015-11-08 13:52:29.572 - Thread:   1 ->        MyEntityStatComponent - END
+2015-11-08 13:52:29.572 - Thread:   1 ->        MyCharacterStatComponent - START
+2015-11-08 13:52:29.572 - Thread:   1 ->        MyCharacterStatComponent - END
+2015-11-08 13:52:29.572 - Thread:   1 ->        MyEntityComponentsDebugDraw - START
+2015-11-08 13:52:29.572 - Thread:   1 ->        MyEntityComponentsDebugDraw - END
+2015-11-08 13:52:29.572 - Thread:   1 ->        MySyncAirtightDoorGeneric - START
+2015-11-08 13:52:29.573 - Thread:   1 ->        MySyncAirtightDoorGeneric - END
+2015-11-08 13:52:29.573 - Thread:   1 ->        MySyncDoor - START
+2015-11-08 13:52:29.574 - Thread:   1 ->        MySyncDoor - END
+2015-11-08 13:52:29.574 - Thread:   1 ->        MySyncGravityGenerator - START
+2015-11-08 13:52:29.575 - Thread:   1 ->        MySyncGravityGenerator - END
+2015-11-08 13:52:29.575 - Thread:   1 ->        MySyncGravityGeneratorSphere - START
+2015-11-08 13:52:29.575 - Thread:   1 ->        MySyncGravityGeneratorSphere - END
+2015-11-08 13:52:29.575 - Thread:   1 ->        MySyncGyro - START
+2015-11-08 13:52:29.578 - Thread:   1 ->        MySyncGyro - END
+2015-11-08 13:52:29.578 - Thread:   1 ->        MySyncLightingBlock - START
+2015-11-08 13:52:29.582 - Thread:   1 ->        MySyncLightingBlock - END
+2015-11-08 13:52:29.582 - Thread:   1 ->        MySyncRadioBroadcaster - START
+2015-11-08 13:52:29.584 - Thread:   1 ->        MySyncRadioBroadcaster - END
+2015-11-08 13:52:29.584 - Thread:   1 ->        MySyncEntity - START
+2015-11-08 13:52:29.585 - Thread:   1 ->        MySyncEntity - END
+2015-11-08 13:52:29.585 - Thread:   1 ->        MySyncOxygenGenerator - START
+2015-11-08 13:52:29.586 - Thread:   1 ->        MySyncOxygenGenerator - END
+2015-11-08 13:52:29.586 - Thread:   1 ->        MySyncAirVent - START
+2015-11-08 13:52:29.588 - Thread:   1 ->        MySyncAirVent - END
+2015-11-08 13:52:29.588 - Thread:   1 ->        MySyncOxygenTank - START
+2015-11-08 13:52:29.591 - Thread:   1 ->        MySyncOxygenTank - END
+2015-11-08 13:52:29.591 - Thread:   1 ->        MySyncButtonPanel - START
+2015-11-08 13:52:29.593 - Thread:   1 ->        MySyncButtonPanel - END
+2015-11-08 13:52:29.593 - Thread:   1 ->        MySyncCameraBlock - START
+2015-11-08 13:52:29.594 - Thread:   1 ->        MySyncCameraBlock - END
+2015-11-08 13:52:29.594 - Thread:   1 ->        MySyncProjector - START
+2015-11-08 13:52:29.603 - Thread:   1 ->        MySyncProjector - END
+2015-11-08 13:52:29.603 - Thread:   1 ->        MySyncTimerBlock - START
+2015-11-08 13:52:29.606 - Thread:   1 ->        MySyncTimerBlock - END
+2015-11-08 13:52:29.606 - Thread:   1 ->        MySyncJumpDrive - START
+2015-11-08 13:52:29.611 - Thread:   1 ->        MySyncJumpDrive - END
+2015-11-08 13:52:29.611 - Thread:   1 ->        MyChatHistory - START
+2015-11-08 13:52:29.611 - Thread:   1 ->        MyChatHistory - END
+2015-11-08 13:52:29.611 - Thread:   1 ->        MySyncControllableEntity - START
+2015-11-08 13:52:29.616 - Thread:   1 ->        MySyncControllableEntity - END
+2015-11-08 13:52:29.616 - Thread:   1 ->        MySyncShipController - START
+2015-11-08 13:52:29.619 - Thread:   1 ->        MySyncShipController - END
+2015-11-08 13:52:29.619 - Thread:   1 ->        MySyncRemoteControl - START
+2015-11-08 13:52:29.629 - Thread:   1 ->        MySyncRemoteControl - END
+2015-11-08 13:52:29.629 - Thread:   1 ->        MySyncJumpDriveSystem - START
+2015-11-08 13:52:29.632 - Thread:   1 ->        MySyncJumpDriveSystem - END
+2015-11-08 13:52:29.632 - Thread:   1 ->        MySyncDestructions - START
+2015-11-08 13:52:29.637 - Thread:   1 ->        MySyncDestructions - END
+2015-11-08 13:52:29.637 - Thread:   1 ->        MyGuiBlueprintScreen - START
+2015-11-08 13:52:29.659 - Thread:   1 ->        MyGuiBlueprintScreen - END
+2015-11-08 13:52:29.659 - Thread:   1 ->        MyGuiIngameScriptsPage - START
+2015-11-08 13:52:29.659 - Thread:   1 ->        MyGuiIngameScriptsPage - END
+2015-11-08 13:52:29.659 - Thread:   1 ->        MySyncAdvancedDoor - START
+2015-11-08 13:52:29.660 - Thread:   1 ->        MySyncAdvancedDoor - END
+2015-11-08 13:52:29.660 - Thread:   1 ->        MySyncEnvironmentItems - START
+2015-11-08 13:52:29.665 - Thread:   1 ->        MySyncEnvironmentItems - END
+2015-11-08 13:52:29.665 - Thread:   1 ->        MyGuiScreenAdminMenu - START
+2015-11-08 13:52:29.665 - Thread:   1 ->        MyGuiScreenAdminMenu - END
+2015-11-08 13:52:29.665 - Thread:   1 ->        MyCommandCharacter - START
+2015-11-08 13:52:29.667 - Thread:   1 ->        MyCommandCharacter - END
+2015-11-08 13:52:29.667 - Thread:   1 ->        MyCommandConsole - START
+2015-11-08 13:52:29.667 - Thread:   1 ->        MyCommandConsole - END
+2015-11-08 13:52:29.667 - Thread:   1 ->        MyCommandEntity - START
+2015-11-08 13:52:29.669 - Thread:   1 ->        MyCommandEntity - END
+2015-11-08 13:52:29.669 - Thread:   1 ->        MyGpsCollection - START
+2015-11-08 13:52:29.672 - Thread:   1 ->        MyGpsCollection - END
+2015-11-08 13:52:29.672 - Thread:   1 ->        MySyncConveyorSorter - START
+2015-11-08 13:52:29.675 - Thread:   1 ->        MySyncConveyorSorter - END
+2015-11-08 13:52:29.675 - Thread:   1 ->        MySyncLaserAntenna - START
+2015-11-08 13:52:29.677 - Thread:   1 ->        MySyncLaserAntenna - END
+2015-11-08 13:52:29.678 - Thread:   1 ->        MySyncManipulationTool - START
+2015-11-08 13:52:29.680 - Thread:   1 ->        MySyncManipulationTool - END
+2015-11-08 13:52:29.680 - Thread:   1 ->        MySyncMissionTriggers - START
+2015-11-08 13:52:29.681 - Thread:   1 ->        MySyncMissionTriggers - END
+2015-11-08 13:52:29.681 - Thread:   1 ->        MySyncScenario - START
+2015-11-08 13:52:29.686 - Thread:   1 ->        MySyncScenario - END
+2015-11-08 13:52:29.686 - Thread:   1 ->        MySyncCubeBlock - START
+2015-11-08 13:52:29.686 - Thread:   1 ->        MySyncCubeBlock - END
+2015-11-08 13:52:29.686 - Thread:   1 ->        MySyncSoundBlock - START
+2015-11-08 13:52:29.690 - Thread:   1 ->        MySyncSoundBlock - END
+2015-11-08 13:52:29.690 - Thread:   1 ->        MySyncSpaceBall - START
+2015-11-08 13:52:29.692 - Thread:   1 ->        MySyncSpaceBall - END
+2015-11-08 13:52:29.692 - Thread:   1 ->        MyCameraCollection - START
+2015-11-08 13:52:29.693 - Thread:   1 ->        MyCameraCollection - END
+2015-11-08 13:52:29.693 - Thread:   1 ->        MySyncHelper - START
+2015-11-08 13:52:29.695 - Thread:   1 ->        MySyncHelper - END
+2015-11-08 13:52:29.695 - Thread:   1 ->        MySyncSensorBlock - START
+2015-11-08 13:52:29.699 - Thread:   1 ->        MySyncSensorBlock - END
+2015-11-08 13:52:29.699 - Thread:   1 ->        MySyncTextPanel - START
+2015-11-08 13:52:29.707 - Thread:   1 ->        MySyncTextPanel - END
+2015-11-08 13:52:29.707 - Thread:   1 ->        MySyncGrid - START
+2015-11-08 13:52:29.727 - Thread:   1 ->        MySyncGrid - END
+2015-11-08 13:52:29.727 - Thread:   1 ->        MySyncMotorSuspension - START
+2015-11-08 13:52:29.733 - Thread:   1 ->        MySyncMotorSuspension - END
+2015-11-08 13:52:29.733 - Thread:   1 ->        MyFactionCollection - START
+2015-11-08 13:52:29.736 - Thread:   1 ->        MyFactionCollection - END
+2015-11-08 13:52:29.736 - Thread:   1 ->        MySyncThrower - START
+2015-11-08 13:52:29.737 - Thread:   1 ->        MySyncThrower - END
+2015-11-08 13:52:29.737 - Thread:   1 ->        MyToolBarCollection - START
+2015-11-08 13:52:29.739 - Thread:   1 ->        MyToolBarCollection - END
+2015-11-08 13:52:29.739 - Thread:   1 ->        MySyncProgrammableBlock - START
+2015-11-08 13:52:29.744 - Thread:   1 ->        MySyncProgrammableBlock - END
+2015-11-08 13:52:29.744 - Thread:   1 ->        MySyncMissiles - START
+2015-11-08 13:52:29.744 - Thread:   1 ->        MySyncMissiles - END
+2015-11-08 13:52:29.744 - Thread:   1 ->        MyScriptedGroupsSystem - START
+2015-11-08 13:52:29.745 - Thread:   1 ->        MyScriptedGroupsSystem - END
+2015-11-08 13:52:29.745 - Thread:   1 ->        MySyncLargeTurret - START
+2015-11-08 13:52:29.752 - Thread:   1 ->        MySyncLargeTurret - END
+2015-11-08 13:52:29.752 - Thread:   1 ->        MySyncConveyors - START
+2015-11-08 13:52:29.753 - Thread:   1 ->        MySyncConveyors - END
+2015-11-08 13:52:29.753 - Thread:   1 ->        MySyncMeteorShower - START
+2015-11-08 13:52:29.753 - Thread:   1 ->        MySyncMeteorShower - END
+2015-11-08 13:52:29.753 - Thread:   1 ->        MySyncBattery - START
+2015-11-08 13:52:29.754 - Thread:   1 ->        MySyncBattery - END
+2015-11-08 13:52:29.754 - Thread:   1 ->        MySyncCockpit - START
+2015-11-08 13:52:29.754 - Thread:   1 ->        MySyncCockpit - END
+2015-11-08 13:52:29.754 - Thread:   1 ->        MySyncFloatingObjects - START
+2015-11-08 13:52:29.769 - Thread:   1 ->        MySyncFloatingObjects - END
+2015-11-08 13:52:29.769 - Thread:   1 ->        MySyncBlockHelpers - START
+2015-11-08 13:52:29.770 - Thread:   1 ->        MySyncBlockHelpers - END
+2015-11-08 13:52:29.770 - Thread:   1 ->        MySyncWarhead - START
+2015-11-08 13:52:29.773 - Thread:   1 ->        MySyncWarhead - END
+2015-11-08 13:52:29.773 - Thread:   1 ->        ProductionBlockSync - START
+2015-11-08 13:52:29.775 - Thread:   1 ->        ProductionBlockSync - END
+2015-11-08 13:52:29.775 - Thread:   1 ->        SyncClass - START
+2015-11-08 13:52:29.778 - Thread:   1 ->        SyncClass - END
+2015-11-08 13:52:29.778 - Thread:   1 ->        MySyncLandingGear - START
+2015-11-08 13:52:29.780 - Thread:   1 ->        MySyncLandingGear - END
+2015-11-08 13:52:29.780 - Thread:   1 ->        MySyncExplosions - START
+2015-11-08 13:52:29.781 - Thread:   1 ->        MySyncExplosions - END
+2015-11-08 13:52:29.781 - Thread:   1 ->        MySyncCharacter - START
+2015-11-08 13:52:29.791 - Thread:   1 ->        MySyncCharacter - END
+2015-11-08 13:52:29.791 - Thread:   1 ->        MyPlayerCollection - START
+2015-11-08 13:52:29.801 - Thread:   1 ->        MyPlayerCollection - END
+2015-11-08 13:52:29.801 - Thread:   1 ->        MySyncCreate - START
+2015-11-08 13:52:29.803 - Thread:   1 ->        MySyncCreate - END
+2015-11-08 13:52:29.803 - Thread:   1 ->        MySyncGlobal - START
+2015-11-08 13:52:29.805 - Thread:   1 ->        MySyncGlobal - END
+2015-11-08 13:52:29.805 - Thread:   1 ->        MyMultiplayerSyncObject - START
+2015-11-08 13:52:29.808 - Thread:   1 ->        MyMultiplayerSyncObject - END
+2015-11-08 13:52:29.808 - Thread:   1 ->     Preallocate - END
+2015-11-08 13:52:29.814 - Thread:   1 ->  MySandboxGame.Constructor() - END
+2015-11-08 13:52:29.817 - Thread:   1 ->  MyVideoModeManager.LogApplicationInformation - START
+2015-11-08 13:52:29.817 - Thread:   1 ->     Assembly.GetName: Sandbox.Game, Version=0.1.5788.31193, Culture=neutral, PublicKeyToken=null
+2015-11-08 13:52:29.817 - Thread:   1 ->     Assembly.FullName: Sandbox.Game, Version=0.1.5788.31193, Culture=neutral, PublicKeyToken=null
+2015-11-08 13:52:29.817 - Thread:   1 ->     Assembly.Location: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\Sandbox.Game.dll
+2015-11-08 13:52:29.817 - Thread:   1 ->     Assembly.ImageRuntimeVersion: v4.0.30319
+2015-11-08 13:52:29.817 - Thread:   1 ->  MyVideoModeManager.LogApplicationInformation - END
+2015-11-08 13:52:29.819 - Thread:   1 ->  MyVideoModeManager.LogEnvironmentInformation - START
+2015-11-08 13:52:29.825 - Thread:   1 ->     Win32_ComputerSystem.Manufacturer: Alienware
+2015-11-08 13:52:29.825 - Thread:   1 ->     Win32_ComputerSystem.Model: Alienware 17 R2
+2015-11-08 13:52:29.825 - Thread:   1 ->     Virtualized: False
+2015-11-08 13:52:29.828 - Thread:   1 ->     Environment.ProcessorName: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
+2015-11-08 13:52:29.829 - Thread:   1 ->     ComputerInfo.TotalPhysicalMemory: 17,059,753,984 bytes
+2015-11-08 13:52:29.829 - Thread:   1 ->     ComputerInfo.TotalVirtualMemory: 140,737,488,224,256 bytes
+2015-11-08 13:52:29.829 - Thread:   1 ->     ComputerInfo.AvailablePhysicalMemory: 14,093,770,752 bytes
+2015-11-08 13:52:29.829 - Thread:   1 ->     ComputerInfo.AvailableVirtualMemory: 140,736,535,449,600 bytes
+2015-11-08 13:52:29.832 - Thread:   1 ->     Drive C: | Capacity: 118,162,976,768 bytes | Free space: 1,033,146,368 bytes
+2015-11-08 13:52:29.832 - Thread:   1 ->  MyVideoModeManager.LogEnvironmentInformation - END
+2015-11-08 13:52:29.832 - Thread:   1 ->  MySandboxGame.Initialize() - START
+2015-11-08 13:52:29.887 - Thread:   1 ->     MyGuiGameControlsHelpers()
+2015-11-08 13:52:29.961 - Thread:   1 ->     Physics.Init
+2015-11-08 13:52:29.962 - Thread:   1 ->     Version: Release(0), 1800, [S]
+2015-11-08 13:52:29.967 - Thread:   1 ->     HkGameName: SpaceEngineers Release
+2015-11-08 13:52:29.994 - Thread:   1 ->     MyModels.LoadData - START
+2015-11-08 13:52:29.994 - Thread:   1 ->     Pre-caching cube block models
+2015-11-08 13:52:29.994 - Thread:   1 ->     MyModels.LoadData - END
+2015-11-08 13:52:29.994 - Thread:   1 ->     MySandboxGame.LoadData() - START
+2015-11-08 13:52:29.995 - Thread:   1 ->        MyDefinitionManager.LoadSounds() - START
+2015-11-08 13:52:29.997 - Thread:   1 ->           eb56bdef8cc6979560915b136f3e5e7f70428527
+2015-11-08 13:52:30.051 - Thread:   1 ->           Loading Sounds
+2015-11-08 13:52:30.054 - Thread:   1 ->        MyDefinitionManager.LoadSounds() - END
+2015-11-08 13:52:30.062 - Thread:   1 ->        MyAudio.LoadData - START
+2015-11-08 13:52:30.092 - Thread:   1 ->           MyAudio.CreateX3DAudio - Device: Speakers (Sound Blaster Recon3Di) - Channel #: 2
+2015-11-08 13:52:30.616 - Thread:   1 ->        MyAudio.LoadData - END
+2015-11-08 13:52:30.625 - Thread:   1 ->        Could not find any sound for 'None'
+2015-11-08 13:52:30.627 - Thread:   1 ->        MyGuiManager()
+2015-11-08 13:52:30.677 - Thread:   1 ->        MyScreenManager()
+2015-11-08 13:52:30.736 - Thread:   1 ->        MyConfig.Save() - START
+2015-11-08 13:52:30.736 - Thread:   1 ->           Path: C:\Users\Gus\AppData\Roaming\SpaceEngineers\SpaceEngineers.cfg
+2015-11-08 13:52:30.755 - Thread:   1 ->        MyConfig.Save() - END
+2015-11-08 13:52:30.756 - Thread:   1 ->        MyGuiManager.LoadContent() - START
+2015-11-08 13:52:30.758 - Thread:   1 ->           MyGuiManager2.LoadContent() - START
+2015-11-08 13:52:35.562 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.562 - Thread:   1 ->                 Font filename: Fonts\white_shadow\FontData.xml
+2015-11-08 13:52:35.582 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontData.xml
+2015-11-08 13:52:35.582 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.582 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.582 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.582 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.582 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.582 - Thread:   1 ->                 Font filename: Fonts\red\FontData.xml
+2015-11-08 13:52:35.594 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2015-11-08 13:52:35.594 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.594 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.594 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.594 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.594 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.594 - Thread:   1 ->                 Font filename: Fonts\green\FontData.xml
+2015-11-08 13:52:35.602 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\green\FontData.xml
+2015-11-08 13:52:35.602 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.602 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.602 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.602 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.602 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.602 - Thread:   1 ->                 Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:35.611 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:35.611 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.611 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.611 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.611 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.611 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.611 - Thread:   1 ->                 Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:35.618 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:35.618 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.618 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.618 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.618 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.618 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.618 - Thread:   1 ->                 Font filename: Fonts\DarkBlue\FontData.xml
+2015-11-08 13:52:35.628 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\DarkBlue\FontData.xml
+2015-11-08 13:52:35.628 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.628 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.628 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.628 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.628 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.628 - Thread:   1 ->                 Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:35.631 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:35.631 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.631 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.631 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.631 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.631 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.631 - Thread:   1 ->                 Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:35.634 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:35.634 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.634 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.634 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.634 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.634 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.634 - Thread:   1 ->                 Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:35.637 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:35.637 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.637 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.637 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.637 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.637 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.637 - Thread:   1 ->                 Font filename: Fonts\red\FontData.xml
+2015-11-08 13:52:35.640 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2015-11-08 13:52:35.640 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.640 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.640 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.640 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.640 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.640 - Thread:   1 ->                 Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:35.642 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:35.642 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.642 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.642 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.642 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.642 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.643 - Thread:   1 ->                 Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:35.645 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:35.645 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.645 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.645 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.645 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.645 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.645 - Thread:   1 ->                 Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:35.648 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:35.648 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.648 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.648 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.648 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.648 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.648 - Thread:   1 ->                 Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:35.652 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:35.652 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.652 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.653 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.653 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.653 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.653 - Thread:   1 ->                 Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:35.655 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:35.655 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.655 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.655 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.655 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.655 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.656 - Thread:   1 ->                 Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:35.658 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:35.658 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.658 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.658 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.658 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.658 - Thread:   1 ->              MyFont.Ctor - START
+2015-11-08 13:52:35.658 - Thread:   1 ->                 Font filename: Fonts\red\FontData.xml
+2015-11-08 13:52:35.661 - Thread:   1 ->                 FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2015-11-08 13:52:35.661 - Thread:   1 ->                 LineHeight: 37
+2015-11-08 13:52:35.661 - Thread:   1 ->                 Baseline: 30
+2015-11-08 13:52:35.661 - Thread:   1 ->                 KernEnabled: True
+2015-11-08 13:52:35.661 - Thread:   1 ->              MyFont.Ctor - END
+2015-11-08 13:52:35.661 - Thread:   1 ->           MyGuiManager2.LoadContent() - END
+2015-11-08 13:52:35.662 - Thread:   1 ->           MyGuiManager.LoadContent() - START
+2015-11-08 13:52:35.662 - Thread:   1 ->           MyGuiManager.LoadContent() - END
+2015-11-08 13:52:35.662 - Thread:   1 ->        MyGuiManager.LoadContent() - END
+2015-11-08 13:52:35.725 - Thread:   1 ->     MySandboxGame.LoadData() - END
+2015-11-08 13:52:35.782 - Thread:   1 ->  MySandboxGame.Initialize() - END
+2015-11-08 13:52:35.797 - Thread:   1 ->  Timer Frequency: 2537589
+2015-11-08 13:52:35.797 - Thread:   1 ->  Ticks per frame: 42470
+2015-11-08 13:52:36.323 - Thread:   1 ->  MyVideoSettingsManager.OnVideoAdaptersResponse
+2015-11-08 13:52:36.324 - Thread:   1 ->     Adapter DeviceName: 'NVIDIA GeForce GTX 980M ', Description: 'NVIDIA GeForce GTX 980M , dev id: 5079, mem: 4207804416, shared mem: 8529876992, Luid: 68860, rev: 161, subsys id: 109580328, vendor id: 4318'
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x200@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x200@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x200@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x200@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x240@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x240@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x240@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        320x240@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        400x300@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        400x300@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        400x300@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        400x300@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        512x384@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        512x384@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        512x384@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        512x384@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x400@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x400@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x400@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x400@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x480@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x480@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x480@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x480@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        800x600@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        800x600@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        800x600@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        800x600@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1024x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1024x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1024x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1024x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1152x864@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1152x864@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1152x864@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1152x864@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x600@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x600@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x600@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x600@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x720@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x720@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x720@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x720@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x800@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x800@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x800@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x800@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x960@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x960@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x960@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x960@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x1024@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x1024@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x1024@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x1024@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1360x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1360x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1360x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1360x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1366x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1366x768@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1366x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1366x768@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1400x1050@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1400x1050@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1400x1050@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1400x1050@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1440x900@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1440x900@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1440x900@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1440x900@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1600x900@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1600x900@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1600x900@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1600x900@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1680x1050@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1680x1050@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1680x1050@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1680x1050@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1920x1080@48Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1920x1080@60.02042Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->     Adapter DeviceName: 'Intel(R) HD Graphics 4600', Description: 'Intel(R) HD Graphics 4600, dev id: 1046, mem: 117964800, shared mem: 8529876992, Luid: 68105, rev: 6, subsys id: 109580328, vendor id: 32902'
+2015-11-08 13:52:36.326 - Thread:   1 ->        640x480@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        720x576@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        800x600@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1024x768@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1152x864@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x720@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x768@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x800@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x960@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1280x1024@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1360x768@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1360x1024@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1440x900@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1600x900@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1600x1024@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1600x1200@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1680x1200@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1680x1050@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1920x1080@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->        1920x1200@60Hz
+2015-11-08 13:52:36.326 - Thread:   1 ->     Adapter DeviceName: 'Microsoft Basic Render Driver', Description: 'Microsoft Basic Render Driver, dev id: 140, mem: 0, shared mem: 8529876992, Luid: 68809, rev: 0, subsys id: 0, vendor id: 5140'
+2015-11-08 13:52:36.327 - Thread:   1 ->        640x480@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        720x576@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        800x600@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1024x768@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1152x864@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1280x720@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1280x768@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1280x800@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1280x960@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1280x1024@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1360x768@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1360x1024@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1440x900@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1600x900@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1600x1024@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1600x1200@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1680x1200@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1680x1050@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1920x1080@60Hz
+2015-11-08 13:52:36.327 - Thread:   1 ->        1920x1200@60Hz
+2015-11-08 13:52:36.341 - Thread:   1 ->  Analytics helper process start reported
+2015-11-08 13:52:36.897 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.897 - Thread:  13 ->     Font filename: Fonts\white_shadow\FontData.xml
+2015-11-08 13:52:36.899 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontData.xml
+2015-11-08 13:52:36.899 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.899 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.899 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.899 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.911 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.911 - Thread:  13 ->     Font filename: Fonts\red\FontData.xml
+2015-11-08 13:52:36.914 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2015-11-08 13:52:36.914 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.914 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.914 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.914 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.923 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.923 - Thread:  13 ->     Font filename: Fonts\green\FontData.xml
+2015-11-08 13:52:36.925 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\green\FontData.xml
+2015-11-08 13:52:36.925 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.925 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.925 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.925 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.934 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.934 - Thread:  13 ->     Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:36.936 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:36.936 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.936 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.936 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.936 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.944 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.944 - Thread:  13 ->     Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:36.946 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:36.946 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.946 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.946 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.946 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.955 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.955 - Thread:  13 ->     Font filename: Fonts\DarkBlue\FontData.xml
+2015-11-08 13:52:36.957 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\DarkBlue\FontData.xml
+2015-11-08 13:52:36.957 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.957 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.957 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.957 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.967 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.967 - Thread:  13 ->     Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:36.969 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:36.969 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.969 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.969 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.969 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.969 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.969 - Thread:  13 ->     Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:36.971 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:36.971 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.971 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.971 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.971 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.971 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.971 - Thread:  13 ->     Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:36.975 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:36.975 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.975 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.975 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.975 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.975 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.975 - Thread:  13 ->     Font filename: Fonts\red\FontData.xml
+2015-11-08 13:52:36.977 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2015-11-08 13:52:36.977 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.977 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.977 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.977 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.977 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.977 - Thread:  13 ->     Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:36.979 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:36.979 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.979 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.979 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.979 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.979 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.979 - Thread:  13 ->     Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:36.981 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:36.981 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.981 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.981 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.981 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.981 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.981 - Thread:  13 ->     Font filename: Fonts\white\FontData.xml
+2015-11-08 13:52:36.983 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2015-11-08 13:52:36.983 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.983 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.983 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.983 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.983 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.983 - Thread:  13 ->     Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:36.985 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:36.985 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.985 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.985 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.985 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.985 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.985 - Thread:  13 ->     Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:36.987 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:36.987 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.987 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.987 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.987 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.987 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.987 - Thread:  13 ->     Font filename: Fonts\blue\FontData.xml
+2015-11-08 13:52:36.989 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2015-11-08 13:52:36.989 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.989 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.989 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.989 - Thread:  13 ->  MyFont.Ctor - END
+2015-11-08 13:52:36.989 - Thread:  13 ->  MyFont.Ctor - START
+2015-11-08 13:52:36.989 - Thread:  13 ->     Font filename: Fonts\red\FontData.xml
+2015-11-08 13:52:36.991 - Thread:  13 ->     FontFilePath: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2015-11-08 13:52:36.992 - Thread:  13 ->     LineHeight: 37
+2015-11-08 13:52:36.992 - Thread:  13 ->     Baseline: 30
+2015-11-08 13:52:36.992 - Thread:  13 ->     KernEnabled: True
+2015-11-08 13:52:36.992 - Thread:  13 ->  MyFont.Ctor - END
